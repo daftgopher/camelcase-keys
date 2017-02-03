@@ -45,7 +45,7 @@
     "recursive"
   ],
   "dependencies": {
-    "camelcase": "^3.0.0",
+    "camelcase": "daftgopher/camelcase#aa465c3f2db8fcc1d71c773cd11db03c7f6bace1",
     "map-obj": "^2.0.0"
   },
   "devDependencies": {
